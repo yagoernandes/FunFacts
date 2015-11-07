@@ -1,4 +1,4 @@
-package com.teamtreehouse.funfacts;
+package com.nerdz.yago.funfacts;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
